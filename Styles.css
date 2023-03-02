@@ -1,0 +1,41 @@
+body {
+    background-image: url("Imagenes/estrellas.jpg");
+    color:aliceblue;
+  }
+
+.General{
+    display:flex;
+    margin: 30px;
+    width: 90%;
+}
+
+.info{
+    margin-left: 10%;
+    width:60%;
+}
+
+
+img {
+    border-radius: 10%;
+    width: 250px;
+    border: 5px solid #ddd;
+    margin: 10%;
+  }
+
+  h1{
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+
+  h3{
+    font-size: 25px;
+  }
+
+  
+  p{
+    font-size: 20px;
+  }
+
+  ul{
+    font-size: 20px;
+  }
